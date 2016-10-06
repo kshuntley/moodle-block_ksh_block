@@ -1,5 +1,5 @@
-This is the full name block plugin. It just displays the user's full name.
+Based on the full name block plugin by Justin Hunt. It just displays the user's full name.
 
-Justin Hunt
-AKA PoodLL Guy
-poodllsupport@gmail.com
+KS Huntley
+@kshuntley
+scott@kshuntley.com
